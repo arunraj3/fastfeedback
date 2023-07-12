@@ -14,7 +14,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}
+            {/* By{' '}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
@@ -22,7 +22,7 @@ export default function Home() {
               width={100}
               height={24}
               priority
-            />
+            /> */}
           </a>
         </div>
       </div>
